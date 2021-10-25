@@ -28,11 +28,11 @@ const SidebarFooter: React.FunctionComponent = () => (
       <Link to="https://sass-lang.com/">Sass</Link>.
     </div>
     <div>
-      Author: <Link to="https://github.com/sbsrnt">Sebastian Krzyżanowski</Link>
+      Author: <Link to="https://github.com/uvacoder">uvacoder</Link>
     </div>
     <div>
       Project code (github):{" "}
-      <Link to="https://github.com/sbsrnt/physics-calc-v2">
+      <Link to="https://github.com/uvacoder/abc-physics-calc">
         physics-calc-v2
       </Link>
     </div>
