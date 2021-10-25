@@ -20,7 +20,7 @@ const SidebarFooter: React.FunctionComponent = () => (
   <div className={cx("mr-2 pt-3", styles.sidebarFooter)}>
     <div>
       Advanced Physics Calculator is a successor of archived{" "}
-      <Link to="https://sbsrnt.github.io/PhysicsCalc/">PhysicsCalc v.1.0.</Link>
+      <Link to="https://abc-physics-calc.vercel.app/">PhysicsCalc v.1.0.</Link>
     </div>
     <div className="mt-2">
       Built with <Link to="https://reactjs.org/">React.js</Link>,{" "}
